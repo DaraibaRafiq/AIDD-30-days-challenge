@@ -1,0 +1,24 @@
+1-What does AI-Driven Development mean to you? 
+For me, AI-driven development means working with an intelligent partner that handles boring stuff, finds mistakes, and speeds up everything, so I can focus on creativity and problem-solving.
+This includes tasks like:
+Writing or suggesting code
+Detecting bugs and improving quality
+Automating documentation
+Designing architectures
+Testing and deployment
+It shifts the role of a developer from “typing code line-by-line” to orchestrating, supervising, and guiding intelligent systems.Tasks that once required months can now be completed within days, and this transformation is impacting every industry.
+
+How do you see the future of Human–AI Collaboration in software development? 
+The future of Human–AI collaboration in software development will be a partnership.Humans will focus on ideas, logic, creativity, and decisions AI will handle repetitive work, coding speed, debugging, and automation.This partnership will increase productivity, reduce errors, and enable developers to build complex systems faster and more accurately.Overall, the future feels exciting faster development, fewer errors, more innovation, and a developer role that’s more strategic and creative than ever.
+
+Self-Test (MCQs) 
+1️⃣ What is the main purpose of the AI-Native Era? 
+b) Empower developers through AI tools
+2️⃣ What defines an AI-driven developer? 
+b) Creates context-aware prompts 
+3️⃣ What does “AIDD” stand for? 
+b) AI-Driven Development 
+4️⃣ What is the focus of Evaluation-Driven Development (EvDD)? 
+b) Evaluating and improving AI outputs 
+5️⃣ What should developers focus on in the AI era?  
+b) Building reasoning + evaluation skills
